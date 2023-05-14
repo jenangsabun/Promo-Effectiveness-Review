@@ -36,5 +36,8 @@ Some solutions that can be offered so that the effectiveness of using promos inc
   2. Make exclusive promos. Offer promos that are only available in certain months, for example twin date discounts.
   3. Create other promos such as bundle or package promos, where this promo can attract customers who are looking for products in large quantities or customers who are looking for more value in their purchases
   4. Loyalty program. Create a loyalty program or membership program that provides additional incentives for customers who make purchases when they reach a certain spending range. This program can be in the form of exclusive discounts or special benefits for program members.
-  5. Set promo deadlines, to help increase urgency and provide incentives for customers who make purchases.
+  5. Set promo deadlines, to help increase urgency and provide incentives for customers who make purchases
 
+**For tasks 4 please do check on the shipping_summary.sql file for the code and shipping_summary.xlsx file for the visualization, labels shipping.docx are for the mailings**
+
+For task 4, create a shipping_summary table which contains the receipt code obtained by calling the concatenate function, and changing the shipping_date format with the to_char function. The shipping_summary table also has columns that must be obtained from joining several tables such as buyer_table and seller_table. Then after that, syntax *insert into with select statement* is performed so that the shipping_summary table is filled with data matching the criteria given by company. After the table has been created, the next step is to export the table and create a shipping label with layouts 2 accros and 5 down using the mailings feature in Microsoft Word.
