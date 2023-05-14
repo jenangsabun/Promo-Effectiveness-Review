@@ -15,6 +15,13 @@ Foremost things to do is create a new DB and restore a DB given by company. Then
 
 After the q3_q4_review table filled in intended data, export it, then summary and analyzed on monthly total sales activity trend after promo deducted and monthly trend comparison total ratio of using promos and those not using promos.
 
-Using pivot table and pivot chart, these are the visualization for monthly total sales activity after promo used.
+Using pivot table and pivot chart, these are the visualization for monthly trend comparisan total ration using promos and not using promos.
+
 ![image](https://github.com/jenangsabun/Promo-Effectiveness-Review/assets/122729198/bfcd6d84-eedb-4dda-90e0-65ab7398a518)
-From the chart above it can be seen most purchased transaction using promo are in August and December, while the lowest transaction using promo are in September and Juli.
+
+From the chart above it can be seen most purchased transaction using promo are in August and December, while the lowest transaction using promo are in September and Juli. Look deeper into the chart we can see that on Desember especially after the promo applied, total transaction using promo increasing about 28% compared transaction not using promo. There were also transaction using promo that are lower that transaction not using promo i.e. Oktober and November where the difference is about -0,71% and -0,34% of sales using promo compared to not. 
+From the graph it can be concluded that in certain months such as the holiday season or independence day sales using promo campaign increasing. 
+
+Another graph to show monthly total sales trend after promo applied
+
+![image](https://github.com/jenangsabun/Promo-Effectiveness-Review/assets/122729198/58165dc7-f2bd-45bc-9a9f-0b65c63d3449)
