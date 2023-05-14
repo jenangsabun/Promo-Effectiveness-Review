@@ -1,4 +1,4 @@
-# Promo-Effectiveness-Review
+# Summarizing "Promo Effectiviness Review" Program on Jubelio Omnichannel
 After 3 weeks of learning about understanding how to solve problems and work on projects according to what a Reporting Engineer does at Jubelio. For the last week at the end of the fourth week, will be given a final project to implement all the knowledge that have learned before. The final project is the last step to complete the Virual Internship Experience (VIX).
 
 # Data Entry and Reporting Engineer Task
